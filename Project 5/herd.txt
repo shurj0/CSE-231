@@ -1,0 +1,14 @@
+States with insufficient Measles herd immunity.
+State                    Percent
+Arizona                   88.3%
+Idaho                     88.5%
+Kansas                    86.5%
+Missouri                  89.4%
+Nevada                    89.0%
+Ohio                      89.5%
+Oklahoma                  87.7%
+Texas                     83.1%
+Utah                      89.5%
+Washington                88.3%
+West Virginia             86.5%
+Guam                      76.3%
